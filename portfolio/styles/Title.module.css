@@ -1,0 +1,18 @@
+
+
+.title {
+    background-color: #e7c179;
+    padding: 10px;
+}
+
+
+.portrait {
+    margin: auto;
+}
+
+
+.name {
+    position: relative;
+    text-align: center;
+    color: #000000;
+}
